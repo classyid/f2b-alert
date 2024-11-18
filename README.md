@@ -24,7 +24,7 @@ sudo dnf install whois curl
 ### Langkah Instalasi
 1. Clone repository
 ```bash
-git clone https://github.com/username/f2b-alert.git
+git clone https://github.com/classyid/f2b-alert.git
 cd f2b-alert
 ```
 
